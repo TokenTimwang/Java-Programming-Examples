@@ -1,2 +1,7 @@
 # Project exclude paths
 /.gradle/
+gradle/
+src/main/resources/
+src/test/
+build/
+.idea/compiler.xml
