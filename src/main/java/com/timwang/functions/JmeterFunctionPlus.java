@@ -1,4 +1,4 @@
-package com.functions;
+package com.timwang.functions;
 
 import org.apache.jmeter.engine.util.CompoundVariable;
 import org.apache.jmeter.functions.AbstractFunction;
